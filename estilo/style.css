@@ -88,6 +88,18 @@ nav > a:hover {
     border-radius: 5px;
 }
 
+.topo {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    box-shadow: 3px 3px 3px #3333335b;
+    padding: 10px;
+    border-radius: 5px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
 main {
     min-width: 300px;
     max-width: 1000px;
